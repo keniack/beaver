@@ -10,9 +10,6 @@ Whether you're managing references for a paper or cleaning up your library, Beav
 
 - ✅ Scans all `.bib` files in a folder
 - ✅ Detects duplicates **by title**, not just BibTeX keys
-- ✅ Automatically removes:
-  - Exact duplicates
-  - Less-informative `@online` entries if better ones exist
 - ✅ Prompts user when manual decision is needed
 - ✅ Merges everything into a clean `merged.bib` file
 
