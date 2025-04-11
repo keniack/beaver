@@ -27,6 +27,6 @@ Whether you're managing references for a paper or cleaning up your library, Beav
    ```
 
 2. Install dependencies:
-```
-pip install bibtexparser
-```
+    ```
+    pip install bibtexparser
+    ```
